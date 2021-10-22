@@ -4,7 +4,7 @@ Loot Virtual Land is a Loot inspired NFT collection. The NFT SVGs are generated 
 
 You may deploy this smart contract on Ethereum or EVM compatible network.
 
-The smart contract has exclusive mint function which requires wallets to be whitelisted via a external signing mechanism.
+The smart contract has an exclusive mint function which requires wallets to be whitelisted via a external signing mechanism.
 
 ## Setup Hardhat
 1. Install Hardhat
