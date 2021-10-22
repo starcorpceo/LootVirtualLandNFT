@@ -1,0 +1,22 @@
+{
+  "name": "lootvirtualland",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node monitor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.4",
+    "fast-csv": "^4.3.6"
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
